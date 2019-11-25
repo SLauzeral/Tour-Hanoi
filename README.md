@@ -1,4 +1,4 @@
-Tour-Hanoi
+#Tour-Hanoi
 I realised this project in cooperation with Thomas Gubéno. It's a AR version of the hanoi tower game, it runs on android. Developped with vuforia on Unity.
 
 my contribution to the project:
